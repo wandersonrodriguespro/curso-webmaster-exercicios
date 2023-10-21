@@ -10,10 +10,10 @@ h2{
 .align{
     max-width: 900px;
     margin: 0 auto;
-    padding: 30px;
+    padding: 15px;
 }
-.align img{
-    max-width: 100px;
+.player-options{
+    width: 50%;
 }
 
 
