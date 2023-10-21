@@ -8,7 +8,7 @@ header{
     background-color: #5a71bb;
     text-align: center;
     color:white;
-    padding:20px 0;
+    padding: 15px;
 }
 
 .container{
@@ -50,7 +50,7 @@ input.valor-produto{
 }
 
 input[type="submit"]{
-    width: 40%;
+    width: 150px;
     padding: 15px;
     margin-top: 20px;
     background-color: green;
@@ -97,7 +97,7 @@ h3.price-produto > span{
 }
 
 .limpar{
-    width: 40%;
+    width: 150px;
     padding: 15px;
     margin-top: 20px;
     background-color: green;
