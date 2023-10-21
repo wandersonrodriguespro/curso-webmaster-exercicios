@@ -21,4 +21,4 @@
 
 # Exercícios JQuery
 
-<a href="https://wandersonhrodrigues.github.io/JQuery/index.html" target="_blank">Acesse => PopUp Formulário<a>
+<a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/JQuery" target="_blank">Acesse => PopUp Formulário<a>
