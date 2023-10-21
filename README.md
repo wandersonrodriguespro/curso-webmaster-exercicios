@@ -7,9 +7,9 @@
 <br>
 <a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/html_css/Projeto_03/" target="_blank">Acesse => Projeto 03<a>
 <br>
-<a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/html_css/Projeto_04/" target="_blank">Acesse => Projeto 04<a>
+<a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/html_css/projeto_04/index.html" target="_blank">Acesse => Projeto 04<a>
 <br>
-<a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/html_css/Projeto_05/" target="_blank">Acesse => Projeto 05<a><p>
+<a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/html_css/projeto_05/index.html" target="_blank">Acesse => Projeto 05<a><p>
  
 # Exercícios JavaScript
 
@@ -21,4 +21,4 @@
 
 # Exercícios JQuery
 
-<a href="https://wandersonhrodrigues.github.io/JQuery/indx.html" target="_blank">Acesse => PopUp Formulário<a>
+<a href="https://wandersonhrodrigues.github.io/JQuery" target="_blank">Acesse => PopUp Formulário<a>
