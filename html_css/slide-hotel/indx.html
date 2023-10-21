@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slide</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    
+    <style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.slide-container {
+    max-width: 1144px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.slide {
+    display: none;
+    text-align: center;
+}
+
+.slide-row {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0 -5px;
+}
+
+.slide-row img {
+    width: calc(33.33% - 10px);
+    margin: 5px;
+    background-size: cover;
+}
+.slide-row-50{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0 -5px;
+}
+.slide-row-50 img {
+    width: calc(50% - 5px);
+    margin-top: 5px;
+    background-size: cover;
+}
+.slide-row-50 img:nth-of-type(1){
+    margin-right: 5px;
+}
+.slide-row-50 img:nth-of-type(2){
+    margin-left: 5px;
+}
+.active-slide {
+    display: flex;
+}
+.slider-nav img{
+    margin: 60px 70px;
+}
+
+    </style>
+</head>
+<body>
+    <div class="slide-container">
+        <div class="slide">
+            <div class="slide-row">
+                <img src="https://agenciaserviam.com/casa_grande/wp-content/uploads/2023/07/Casa-Grande-Hotel_09fev23_066-scaled.jpg" alt="Imagem 1">
+                <img src="https://agenciaserviam.com/casa_grande/wp-content/uploads/2023/07/FORUM-ESFERA-2023-10.jpg" alt="Imagem 2">
+                <img src="https://agenciaserviam.com/casa_grande/wp-content/uploads/2023/07/FORUM-ESFERA-2023-91.jpg" alt="Imagem 3">
+            </div>
+            <div class="slide-row-50">
+                <img src="https://agenciaserviam.com/casa_grande/wp-content/uploads/2023/07/image26.jpg" alt="Imagem 4">
+                <img src="https://agenciaserviam.com/casa_grande/wp-content/uploads/2023/07/CENTRO-DE-EXPOSICOES-AGROCERES-2023-30-scaled.jpg" alt="Imagem 5">
+            </div>
+        </div>
+        
+        </div>
+    </div>
+
+    <div class="slider-nav">
+        <span class="prev"><img src="https://agenciaserviam.com/casa_grande/wp-content/uploads/2023/06/Grupo-276.svg" alt=""></span>
+        <span class="next"><img src="https://agenciaserviam.com/casa_grande/wp-content/uploads/2023/05/Grupo-275.svg" alt=""></span>
+    </div>
+
+    <script>
+        $(document).ready(function() {
+            var slideIndex = 1;
+            showSlides(slideIndex);
+            
+            $(".prev").click(function() {
+                showSlides(slideIndex -= 1);
+            });
+            
+            $(".next").click(function() {
+                showSlides(slideIndex += 1);
+            });
+            
+            function showSlides(n) {
+                var slides = $(".slide");
+                if (n > slides.length) {
+                    slideIndex = 1;
+                }
+                if (n < 1) {
+                    slideIndex = slides.length;
+                }
+                slides.hide();
+                $(".slide:eq(" + (slideIndex - 1) + ")").show();
+            }
+        });
+    </script>
+</body>
+</html>

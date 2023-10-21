@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <script src="js/script.js" defer></script>
+    <title>Galeria</title>
+
+    <style>
+        .custom-gallery {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .gallery-row,.gallery-row-2 {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 10px;
+        }
+
+        .gallery-row img,.gallery-row-2 img {
+            width: calc(33.33% - 10px);
+            margin: 0 5px;
+        }
+
+        .gallery-row-1, .gallery-row-3 {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 10px;
+        }
+
+        .gallery-row-1 img, .gallery-row-3 img {
+            width: calc(50% - 10px);
+            margin: 0 5px;
+        }
+        .gallery-row-2, .gallery-row-3 {
+            display: none;
+            justify-content: center;
+            margin-bottom: 10px;
+        }
+
+
+        #load-more {
+            background-color: #A3865A;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            margin: 20px;
+            padding: 20px 40px;
+            font-size: 18px;
+        }
+    </style>
+
+</head>
+<body>
+    <div class="gallery-row">
+        <img src="img/img1.jpeg" alt="Imagem 1">
+        <img src="img/img2.jpg" alt="Imagem 2">
+        <img src="img/img3.jpeg" alt="Imagem 3">
+    </div>
+
+    <div class="gallery-row-1">
+        <img src="img/img4.jpg" alt="Imagem 4">
+        <img src="img/img5.jpg" alt="Imagem 5">
+    </div>
+
+    <div class="gallery-row-2">
+        <img src="img/img6.jpg" alt="Imagem 1">
+        <img src="img/img7.jpg" alt="Imagem 2">
+        <img src="img/img8.jpeg" alt="Imagem 3">
+    </div>
+
+    <div class="gallery-row-3">
+        <img src="img/img9.jpg" alt="Imagem 4">
+        <img src="img/img10.jpg" alt="Imagem 5">
+    </div>
+
+        <div class="load-more" style="text-align: center;">
+            <button id="load-more">Carregar Mais</button>
+        </div>
+    </div>
+</body>
+</html>

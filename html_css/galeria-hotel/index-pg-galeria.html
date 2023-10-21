@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <script src="js/script.js" defer></script>
+    <title>Galeria</title>
+
+    <style>
+        .galery {
+            max-width: 900px;
+            margin: 0 auto;
+            padding-top: 150px;
+            text-align: center;
+        }
+
+        h2 {
+            font-size: 35px;
+            font-weight: 900;
+            padding-bottom: 30px;
+        }
+        .custom-gallery {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .gallery-row,.gallery-row-2, .gallery-row-4, .gallery-row-6 {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 10px;
+        }
+
+        .gallery-row img, .gallery-row-2 img, .gallery-row-4 img, .gallery-row-6 img {
+            width: calc(33.33% - 10px);
+            margin: 0 5px;
+        }
+
+        .gallery-row-1, .gallery-row-3, .gallery-row-5 {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 10px;
+        }
+
+        .gallery-row-1 img, .gallery-row-3 img, .gallery-row-5 img {
+            width: calc(50% - 10px);
+            margin: 0 5px;
+        }
+        .gallery-row-2, .gallery-row-3, .gallery-row-4, .gallery-row-5, .gallery-row-6 {
+            display: none;
+            justify-content: center;
+            margin-bottom: 10px;
+        }
+
+
+        #load-more {
+            background-color: #A3865A;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            margin: 20px;
+            padding: 20px 40px;
+            font-size: 18px;
+        }
+    </style>
+
+</head>
+<body>
+    <div class="galery">
+        <h2>Galeria Personalisada</h2>
+        <div class="gallery-row">
+            <img src="http://agenciaserviam.com/casa_grande/wp-content/uploads/2023/07/AEREA-2020-scaled.jpg" alt="">
+            <img src="http://agenciaserviam.com/casa_grande/wp-content/uploads/2023/07/CASA-DA-CRIANCA-2014-1.png" alt="">
+            <img src="http://agenciaserviam.com/casa_grande/wp-content/uploads/2023/07/CASA-DA-CRIANCA-2020-13-scaled.jpg" alt="">
+            </div>
+
+            <div class="gallery-row-1">
+                <img src="http://agenciaserviam.com/casa_grande/wp-content/uploads/2023/06/CASA-DA-CRIANCA.png" alt="">
+                <img src="http://agenciaserviam.com/casa_grande/wp-content/uploads/2023/07/DECORACAO-2018-scaled.jpg" alt="">
+            </div>
+
+
+            <div class="gallery-row-2">
+                <img src="http://agenciaserviam.com/casa_grande/wp-content/uploads/2023/07/FELCO-2023-2-scaled.jpg" alt="">
+                <img src="http://agenciaserviam.com/casa_grande/wp-content/uploads/2023/07/FELCO-2023-16-scaled.jpg" alt="">
+                <img src="http://agenciaserviam.com/casa_grande/wp-content/uploads/2023/07/FOTOS-RAFAEL-2022-67-1-scaled.jpg" alt="">
+            </div>
+
+            <div class="gallery-row-3">
+                <img src="http://agenciaserviam.com/casa_grande/wp-content/uploads/2023/07/FOTOS-RAFAEL-2022-209-2-scaled.jpg" alt="">
+                <img src="http://agenciaserviam.com/casa_grande/wp-content/uploads/2023/07/FOTOS-RAFAEL-2022-6-scaled.jpg" alt="">
+            </div>
+
+            <div class="gallery-row-4">
+                <img src="http://agenciaserviam.com/casa_grande/wp-content/uploads/2023/07/FOTOS-RAFAEL-2022-177-scaled.jpg" alt="">
+                <img src="http://agenciaserviam.com/casa_grande/wp-content/uploads/2023/07/FOTOS-RAFAEL-2022-198-scaled.jpg" alt="">
+                <img src="http://agenciaserviam.com/casa_grande/wp-content/uploads/2023/07/FOTOS-RAFAEL-2022-209-1-scaled.jpg" alt="">
+            </div>
+
+            <div class="gallery-row-5">
+                <img src="http://agenciaserviam.com/casa_grande/wp-content/uploads/2023/07/MINI-GOLF-2016-2.jpg" alt="">
+                <img src="http://agenciaserviam.com/casa_grande/wp-content/uploads/2023/07/PREMIUM-25-scaled.jpg" alt="">
+            </div>
+
+            <div class="load-more" style="text-align: center;">
+                <button id="load-more">Carregar Mais</button>
+            </div>
+        </div>
+    </div><!-- /.galery -->   
+
+</body>
+</html>
