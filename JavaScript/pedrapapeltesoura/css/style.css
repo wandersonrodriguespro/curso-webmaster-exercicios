@@ -10,6 +10,7 @@ h2{
 .align{
     max-width: 900px;
     margin: 0 auto;
+    padding: 30px;
 }
 .align img{
     max-width: 100px;
