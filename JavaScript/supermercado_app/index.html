@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+    <title>Lista de Supermercado</title>
+</head>
+
+<body>
+    <header>
+        <h2>App Lista de Supermercado</h2>
+    </header>
+    <div class="container">
+        <div class="lista-cadastro">
+            
+            <input class="nome-produto" type="text" placeholder="Nome do produto..."
+                name="nome_produto" />
+            
+            <input class="valor-produto" type="number" placeholder="Valor do Produto" name="price" step="0.01"
+            title="Deve ser um número com até 2 casas decimais.">
+            <input type="submit" name="acao" value="Cadastrar"/>
+
+        </div><!--lista-cadastro-->
+
+        <div class="lista-produtos">
+            <p>Lista:</p>
+        </div>
+
+        <div class="soma-produto">
+            <h1>Total: R$0</h1>
+        </div>
+
+        <button class="limpar" name="limpar">Limpar</button>
+    </div><!--container-->
+
+    <script src="js/supermercado.js"></script>
+    
+</body>
+</html>
