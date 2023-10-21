@@ -40,12 +40,12 @@ header{
 }
 
 input.nome-produto {
-    font-size: 17px;
+    font-size: 0.9em;
     font-weight: 600;
 }
 
 input.valor-produto{
-    font-size: 17px;
+    font-size: 0.9em;
     font-weight: 600;
 }
 
@@ -55,7 +55,7 @@ input[type="submit"]{
     margin-top: 20px;
     background-color: green;
     color: white;
-    font-size: 20px;
+    font-size: 1em;
     border-radius: 5px;
     border: 0;
     cursor: pointer;
@@ -67,7 +67,7 @@ input[type="submit"]{
     border-radius: 10px;
     padding: 5px 3%;
     margin: 20px;
-    font-size: 20px;
+    font-size: 0.9em;
     font-weight: 700;
 }
 
@@ -82,7 +82,8 @@ input[type="submit"]{
 }
 h3.price-produto{
     text-align: right;
-    font-size: 17px;
+    font-size: 0.96em;
+    letter-spacing: 0.09em;
 }
 h3.price-produto > span{
     background-color: #5a71bb;
@@ -101,7 +102,7 @@ h3.price-produto > span{
     margin-top: 20px;
     background-color: green;
     color: white;
-    font-size: 20px;
+    font-size: 1em;
     border-radius: 5px;
     border: 0;
     cursor: pointer;
