@@ -15,9 +15,9 @@
 
 <a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/JavaScript/pedrapapeltesoura/" target="_blank">Acesse => Jogo Pedra x Papel x Tesoura<a>
 <br>
-<a href="wandersonhrodrigues.github.io/curso-webmaster-exercicios/JavaScript/pokedex" target="_blank">Acesse => Pokedex<a>
-<br>
 <a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/JavaScript/supermercado_app/" target="_blank">Acesse => Lista Supermercado<a>
+<br>
+<a href="wandersonhrodrigues.github.io/curso-webmaster-exercicios/JavaScript/pokedex" target="_blank">Acesse => Pokedex API<a>
 
 # Exercícios JQuery
 
