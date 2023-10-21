@@ -8,8 +8,11 @@
 <p><a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/html_css/Projeto_04/" target="_blank">Acesse => Projeto 04<a>
 <p><a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/html_css/Projeto_05/" target="_blank">Acesse => Projeto 05<a><p>
  
-# <h2>Exercícios JavaScript<h2>
+<h2>Exercícios JavaScript<h2>
 
 <p><a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/JavaScript/pedrapapeltesoura/" target="_blank">Acesse => Jogo Pedra x Papel x Tesoura<a>
 <p><a href="wandersonhrodrigues.github.io/curso-webmaster-exercicios/JavaScript/pokedex" target="_blank">Acesse => Pokedex<a>
-<p><a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/JavaScript/supermercado_app/">Acesse => Lista Supermercado<a>
+<p><a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/JavaScript/supermercado_app/" target="_blank">Acesse => Lista Supermercado<a>
+
+<h2>Exercícios JQuery<h2>
+<p><a href="">
