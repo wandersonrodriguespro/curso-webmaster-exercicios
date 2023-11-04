@@ -1,3 +1,30 @@
+<style>
+.container-lg.px-3.my-5.markdown-body {
+    background-color: black;
+    color: white;
+    padding: 50px 40px;
+    box-shadow: 0px 0px 20px black;
+    border-radius: 15px;
+}
+h1#curso-webmaster-exercicios, h1{
+    font-size: 1.8em;
+    text-align: center;
+    padding-bottom: 40px;
+}
+a {
+    font-weight: 800;
+    color: #e58b16;
+}
+container.conteudo {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    margin: 33px 3%;
+}
+
+</style>
+
+
 # curso-webmaster-exercicios
  Exercicios Curso Webmaster - Danki Code
 
