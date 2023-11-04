@@ -13,7 +13,7 @@ body {
     box-shadow: 0px 0px 20px black;
     border-radius: 15px;
 }
-.markdown-body h1 {
+h1#curso-html-guanabara, h1 {
     padding-bottom: 0.3em;
     font-size: 1.8em;
     text-align: center;
