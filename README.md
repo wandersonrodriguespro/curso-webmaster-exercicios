@@ -1,4 +1,4 @@
-# curso-webmaster-exercicios
+# curso-webmaster-exercícios
 
 <style>
 
@@ -13,11 +13,11 @@ body {
     box-shadow: 0px 0px 20px black;
     border-radius: 15px;
 }
-
-h1#curso-webmaster-exercicios, h1{
+.markdown-body h1 {
+    padding-bottom: 0.3em;
     font-size: 1.8em;
     text-align: center;
-    padding-bottom: 40px;
+    font-variant: small-caps;
 }
 
 a {
@@ -37,7 +37,7 @@ p .description{
 </style>
 
 <container class="conteudo">
-<p class="description">Exercicios Curso Webmaster - Danki Code</p>
+<p class="description">Neste repositório esta agrupado os exercícios  executados no Curso Webmaster - Danki Code</p>
 
 
 <h1>Exercícios HTML e CSS</h1>
