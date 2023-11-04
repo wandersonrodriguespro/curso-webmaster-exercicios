@@ -41,24 +41,29 @@ p .description{
 
 
 <h1>Exercícios HTML e CSS</h1>
+<ul>
+<li><a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/html_css/Projeto_02/" target="_blank">Acesse => Projeto 02</a></li>
 
-<p><a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/html_css/Projeto_02/" target="_blank">Acesse => Projeto 02</a></p>
+<li><a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/html_css/Projeto_03/" target="_blank">Acesse => Projeto 03</a></li>
 
-<p><a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/html_css/Projeto_03/" target="_blank">Acesse => Projeto 03</a></p>
+<li><a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/html_css/projeto_04/index.html" target="_blank">Acesse => Projeto 04</a></li>
 
-<p><a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/html_css/projeto_04/index.html" target="_blank">Acesse => Projeto 04</a></p>
+<li><a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/html_css/projeto_05/index.html" target="_blank">Acesse => Projeto 05</a></li>
+</ul>
 
-<p><a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/html_css/projeto_05/index.html" target="_blank">Acesse => Projeto 05</a></p>
  
 <h1>Exercícios JavaScript</h1>
 
-<a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/JavaScript/pedrapapeltesoura/" target="_blank">Acesse => Jogo Pedra x Papel x Tesoura</a>
+<ul>
+<li><a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/JavaScript/pedrapapeltesoura/" target="_blank">Acesse => Jogo Pedra x Papel x Tesoura</a></li>
 
-<a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/JavaScript/supermercado_app/" target="_blank">Acesse => Lista Supermercado</a>
+<li><a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/JavaScript/supermercado_app/" target="_blank">Acesse => Lista Supermercado</a></li>
 
-<a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/JavaScript/pokedex">Acesse => Pokedex</a>
+<li><a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/JavaScript/pokedex">Acesse => Pokedex</a></li>
+</ul>
 
 <h1>Exercícios JQuery</h1>
-
-<a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/JQuery" target="_blank">Acesse => PopUp Formulário</a>
+<ul>
+<li></li><a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/JQuery" target="_blank">Acesse => PopUp Formulário</a></li>
+</ul>
 </container><!--    conteudo    -->
