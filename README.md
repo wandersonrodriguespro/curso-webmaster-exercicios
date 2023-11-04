@@ -1,4 +1,4 @@
-# curso-webmaster-exercícios
+# curso-webmaster-exercicios
 
 <style>
 
@@ -13,7 +13,8 @@ body {
     box-shadow: 0px 0px 20px black;
     border-radius: 15px;
 }
-h1#curso-html-guanabara, h1 {
+
+h1#curso-webmaster-exercicios, h1{
     padding-bottom: 0.3em;
     font-size: 1.8em;
     text-align: center;
@@ -37,7 +38,7 @@ p .description{
 </style>
 
 <container class="conteudo">
-<p class="description">Neste repositório está agrupado os exercícios  executados no Curso Webmaster - Danki Code</p>
+<p class="description">Exercicios Curso Webmaster - Danki Code</p>
 
 
 <h1>Exercícios HTML e CSS</h1>
