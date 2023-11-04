@@ -23,6 +23,7 @@ h1#curso-webmaster-exercicios, h1{
 a {
     font-weight: 800;
     color: #e58b16;
+    padding-bottom:20px;
 }
 
 container.conteudo {
