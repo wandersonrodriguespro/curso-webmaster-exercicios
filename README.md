@@ -41,11 +41,11 @@ container.conteudo {
 
 <p><a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/html_css/Projeto_02/" target="_blank">Acesse => Projeto 02</a></p>
 
-<a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/html_css/Projeto_03/" target="_blank">Acesse => Projeto 03</a>
+<p><a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/html_css/Projeto_03/" target="_blank">Acesse => Projeto 03</a></p>
 
-<a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/html_css/projeto_04/index.html" target="_blank">Acesse => Projeto 04</a>
+<p><a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/html_css/projeto_04/index.html" target="_blank">Acesse => Projeto 04</a></p>
 
-<a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/html_css/projeto_05/index.html" target="_blank">Acesse => Projeto 05</a>
+<p><a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/html_css/projeto_05/index.html" target="_blank">Acesse => Projeto 05</a></p>
  
 <h1>Exercícios JavaScript</h1>
 
