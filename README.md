@@ -31,8 +31,8 @@ container.conteudo {
     flex-direction: column;
     margin: 33px 3%;
 }
-p .description{
-    margin-botton: 40px;
+p.description {
+    margin-bottom: 40px;
 }
 
 </style>
