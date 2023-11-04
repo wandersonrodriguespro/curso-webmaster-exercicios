@@ -1,4 +1,4 @@
-# curso-webmaster-exercicios
+# curso-webmaster-exercícios
 
 <style>
 
