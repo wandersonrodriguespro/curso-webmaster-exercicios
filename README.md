@@ -27,7 +27,7 @@ container.conteudo {
 </style>
 
 
-
+<container class="conteudo">
  <p>Exercicios Curso Webmaster - Danki Code</p>
 
 # Exercícios HTML e CSS
@@ -51,3 +51,4 @@ container.conteudo {
 # Exercícios JQuery
 
 <a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/JQuery" target="_blank">Acesse => PopUp Formulário<a>
+</container><!--    conteudo    -->
