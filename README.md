@@ -38,7 +38,7 @@ p .description{
 </style>
 
 <container class="conteudo">
-<p class="description">Exercicios Curso Webmaster - Danki Code</p>
+<p class="description">Exercícios do Curso Webmaster - Danki Code</p>
 
 
 <h1>Exercícios HTML e CSS</h1>
