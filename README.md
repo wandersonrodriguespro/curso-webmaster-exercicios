@@ -39,7 +39,6 @@ container.conteudo {
 
 
 <h1>Exercícios HTML e CSS</h1>
-<hr>
 
 <a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/html_css/Projeto_02/" target="_blank">Acesse => Projeto 02</a>
 
