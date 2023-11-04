@@ -48,7 +48,7 @@ container.conteudo {
 
 <a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/html_css/projeto_05/index.html" target="_blank">Acesse => Projeto 05</a>
  
-# Exercícios JavaScript
+<h1>Exercícios JavaScript</h1>
 
 <a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/JavaScript/pedrapapeltesoura/" target="_blank">Acesse => Jogo Pedra x Papel x Tesoura</a>
 
@@ -56,7 +56,7 @@ container.conteudo {
 
 <a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/JavaScript/pokedex">Acesse => Pokedex</a>
 
-# Exercícios JQuery
+<h1>Exercícios JQuery</h1>
 
 <a href="https://wandersonhrodrigues.github.io/curso-webmaster-exercicios/JQuery" target="_blank">Acesse => PopUp Formulário</a>
 </container><!--    conteudo    -->
