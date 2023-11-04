@@ -37,7 +37,7 @@ p .description{
 </style>
 
 <container class="conteudo">
-<p class="description">Neste repositório esta agrupado os exercícios  executados no Curso Webmaster - Danki Code</p>
+<p class="description">Neste repositório está agrupado os exercícios  executados no Curso Webmaster - Danki Code</p>
 
 
 <h1>Exercícios HTML e CSS</h1>
