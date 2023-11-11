@@ -8,7 +8,7 @@ body {
 
 .container-lg.px-3.my-5.markdown-body {
     background-color: black;
-    color: white;
+    color: #c1c1c1;
     padding: 50px 40px;
     box-shadow: 0px 0px 20px black;
     border-radius: 15px;
